@@ -1,0 +1,14 @@
+name: PixelNegev
+main: net.sautour.leon.pixelnegev.main
+version: 1.0
+
+name: negevate
+main: net.sautour.leon.pixelnegev.main
+version 1.0
+author: mindoo
+commands:
+	basic:
+		description: This command activates the plugin
+		usage: /negevate
+		permission: PixelNegev.basic
+		permission-message: You don't have <permission>
